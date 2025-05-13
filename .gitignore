@@ -1,0 +1,15 @@
+# Ignore arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Diretórios ocultos e temporários
+node_modules/
+dist/
+build/
+.env
+*.log
+
+# Arquivos de backup
+*.bak
+*.tmp
+*.swp
