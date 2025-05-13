@@ -1,0 +1,26 @@
+# Lista de Contatos
+
+Este é um projeto simples de front-end em HTML e CSS que exibe uma lista de contatos com foto, nome e e-mail, além de botões para editar ou excluir cada contato.
+
+## 📁 Estrutura do Projeto
+
+
+## 📌 Funcionalidades
+
+- Exibição de lista de contatos em cards.
+- Layout responsivo e moderno.
+- Botões de ação: editar e excluir (não funcionais ainda, apenas visuais).
+
+## 💡 Melhorias Futuras
+
+- Adicionar funcionalidade de edição e remoção via JavaScript.
+- Integração com backend ou API.
+- Formulário para adicionar novos contatos dinamicamente.
+
+## 🖼️ Preview
+
+(Adicione aqui um print do projeto ou um link para o GitHub Pages, se desejar)
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
